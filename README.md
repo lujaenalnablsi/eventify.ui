@@ -1,1 +1,1 @@
-# eventify.ui
+# Frontend-Eventifiy
